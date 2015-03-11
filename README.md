@@ -16,7 +16,7 @@ PATH=$PWD:$PATH
 
 - Dump all variables for specific node by facts
 ```
-./hiera_dump fqdn=myhost.com
+./hiera_dump fqdn=myhost.com osfamily=RedHat
 ```
 
 - Dump all variables including the files where they originated from
