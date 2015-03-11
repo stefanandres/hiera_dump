@@ -4,7 +4,7 @@ Dump all hiera variables for a specific node
 ## Usage
 ### install
 ```
-git clone git@github.com:stefanandres/hiera_dump.git
+git clone https://github.com/stefanandres/hiera_dump.git
 PATH=$PWD:$PATH
 ```
 
