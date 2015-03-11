@@ -1,5 +1,6 @@
 # hiera_dump
 Dump all hiera variables for a specific node
+It only works for the hiera yaml backend. It may work with hiera-eyaml, will probably fail for hiera-gpg at the moment.
 
 ## Usage
 ### install
